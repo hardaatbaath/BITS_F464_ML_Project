@@ -1,1 +1,3 @@
-# BITS_F464_ML_Project
+# Time Series analysis using Machine Learning Models
+
+## Introduction
