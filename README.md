@@ -2,9 +2,9 @@
 ### BITS F464 Machine Learning
 
 ## Introduction
-The project's main purpose is to test  different hypothesis classes and hyperparameters for time series analysis, in this case, Stock Market Data. The dataset used in this project is a stock market information from this [Nifty50](https://www.kaggle.com/datasets/rohanrao/nifty50-stock-market-data) dataset.
+The project mainly aims to explore the effectiveness of machine learning models for time series analysis and test different hypothesis classes and hyperparameters for the case, Stock Market Data. The dataset used in this project is stock market information from this [Nifty50](https://www.kaggle.com/datasets/rohanrao/nifty50-stock-market-data) dataset.
 
-The main objective of this project was to explore the capabilities of various regression models like:
+The main models that were explored in this project were:
 - Linear Regression
 - Decision Trees
 - Random Forests
@@ -14,6 +14,24 @@ The main objective of this project was to explore the capabilities of various re
 
 We explored their ability to predict the future values of the stock market.  
 The plots are made in Plotly to make them interactive, helping to analyse and explore the data.
+
+## Results
+We tested the trained models for the following stocks:
+
+1. GAIL
+![Image](https://github.com/hardaatbaath/BITS_F464_ML_Project/blob/main/Images/GAIL.png)
+
+3. RELIANCE
+![Image](https://github.com/hardaatbaath/BITS_F464_ML_Project/blob/main/Images/RELIANCE.png)
+
+5. KOTAKBANK
+![Image](https://github.com/hardaatbaath/BITS_F464_ML_Project/blob/main/Images/KOTAKBANK.png)
+
+7. ASIAN PAINTS
+![Image](https://github.com/hardaatbaath/BITS_F464_ML_Project/blob/main/Images/ASIANPAINTS.png)
+
+9. BRITANNIA
+![Image](https://github.com/hardaatbaath/BITS_F464_ML_Project/blob/main/Images/BRITANNIA.png)  
 
 ## To run locally
 To run the project on your local machine, run the following:
